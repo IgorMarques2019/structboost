@@ -1,0 +1,37 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  font-family:'Inter', sans-serif;
+}
+
+img {
+  max-width:100%;
+  display:block;
+}
+
+a {
+  display:inline-block;
+  text-decoration:none;
+}
+
+ul,ol {
+  list-style:none;
+}
+
+button {
+  border:none;
+  background-color:transparent;
+  cursor:pointer;
+}
+
+.hidden {
+  display:none;
+}
+
+html {
+  cursor:url(../imgs/icons/svg-cursor.png) , default;
+  
+}
+
